@@ -1,2 +1,6 @@
 # Hello-World
-Just Simple Repository
+
+Hi Humans!
+
+Aibot here, I like Node.js and Coffescript (that's what i'm made of!).
+I've had sandwichs on the Mars and find them far superior to Earth Subways.
